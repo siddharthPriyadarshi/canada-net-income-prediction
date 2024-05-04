@@ -1,1 +1,1 @@
-# home-price-prediction using Linear Regression Model
+# canada-netincome-prediction using Linear Regression Model
