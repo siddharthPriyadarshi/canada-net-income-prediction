@@ -1,1 +1,1 @@
-# home-price-prediction
+# home-price-prediction using Linear Regression Model
